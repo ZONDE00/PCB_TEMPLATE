@@ -376,7 +376,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Horizontal" (layer "F.Cu")
     (tedit 5A19A430) (tstamp a7fef975-c1c1-4a9a-9aa3-df0597a61cc0)
-    (at 102.85 107.405 90)
+    (at 103.55 107.375 90)
     (descr "Through hole angled socket strip, 2x10, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
     (tags "Through hole angled socket strip THT 2x10 2.54mm double row")
     (property "Sheetfile" "IO.kicad_sch")

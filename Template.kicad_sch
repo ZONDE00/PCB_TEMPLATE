@@ -45,19 +45,19 @@
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005f68f524/00000000-0000-0000-0000-00005f9be6df"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
+      (reference "H1") (unit 1) (value "Spacer") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/00000000-0000-0000-0000-00005f68f524/00000000-0000-0000-0000-00005f9c2a4e"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
+      (reference "H2") (unit 1) (value "Spacer") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/00000000-0000-0000-0000-00005f68f524/1872712e-6027-4c0d-add2-f9925ddb202a"
-      (reference "J1") (unit 1) (value "Conn_02x10_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Horizontal")
+      (reference "J1") (unit 1) (value "BackBone") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00005f68f524/e0e20e44-5aab-497d-8738-268c0f27442b"
-      (reference "J2") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal")
+      (reference "J2") (unit 1) (value "D1") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00005f68f524/93fcccc4-19a2-4344-a21a-6d4dfbf0e7bc"
-      (reference "J3") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal")
+      (reference "J3") (unit 1) (value "D2") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal")
     )
   )
 )
