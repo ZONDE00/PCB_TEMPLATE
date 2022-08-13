@@ -1,0 +1,63 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 4a93fcee-83ef-4979-8b08-09f396c845aa)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 63.5 50.8) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005f68f524)
+    (property "Sheet name" "IO" (id 0) (at 63.5 50.0884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "IO.kicad_sch" (id 1) (at 63.5 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/00000000-0000-0000-0000-00005f68f524" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/00000000-0000-0000-0000-00005f68f524/46df17ea-2ab9-412a-8de8-84f3c4b06644"
+      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/db83f552-506c-4983-9b4d-eb7b88cd9b05"
+      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/220e8b76-65aa-4900-8d37-35d563995496"
+      (reference "#FLG03") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/2fcda11a-4d61-4928-b760-78c3f9fc7f34"
+      (reference "#PWR01") (unit 1) (value "+4V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/dc6622cf-6ab8-487f-8cdb-be38b99dc3d5"
+      (reference "#PWR02") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/9c093886-6a36-4f61-b863-ab688033a8d8"
+      (reference "#PWR03") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/00000000-0000-0000-0000-00005f9be6df"
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/00000000-0000-0000-0000-00005f9c2a4e"
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/1872712e-6027-4c0d-add2-f9925ddb202a"
+      (reference "J1") (unit 1) (value "Conn_02x10_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/e0e20e44-5aab-497d-8738-268c0f27442b"
+      (reference "J2") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-00005f68f524/93fcccc4-19a2-4344-a21a-6d4dfbf0e7bc"
+      (reference "J3") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal")
+    )
+  )
+)
