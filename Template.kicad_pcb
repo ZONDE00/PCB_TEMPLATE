@@ -376,7 +376,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Horizontal" (layer "F.Cu")
     (tedit 5A19A430) (tstamp a7fef975-c1c1-4a9a-9aa3-df0597a61cc0)
-    (at 103.55 107.375 90)
+    (at 103.55 107.075 90)
     (descr "Through hole angled socket strip, 2x10, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
     (tags "Through hole angled socket strip THT 2x10 2.54mm double row")
     (property "Sheetfile" "IO.kicad_sch")
@@ -591,10 +591,8 @@
   (gr_arc (start 145 50) (mid 148.535534 51.464466) (end 150 55) (layer "Edge.Cuts") (width 0.05) (tstamp c293f2d5-3085-49a8-aa55-00b50b579c78))
   (gr_arc (start 85 120) (mid 81.464466 118.535534) (end 80 115) (layer "Edge.Cuts") (width 0.05) (tstamp d67fcaa4-0614-4fb7-98df-3387dd5cf066))
   (gr_arc (start 150 115) (mid 148.535534 118.535534) (end 145 120) (layer "Edge.Cuts") (width 0.05) (tstamp df81d0ae-f882-45bb-9660-9f2b5d29df40))
-  (gr_text "Physical connector" (at 115 116) (layer "Dwgs.User") (tstamp 4a814234-707a-49f9-b491-00c40bd76c18)
+  (gr_text "Physical connector" (at 114.9604 115.9256) (layer "Dwgs.User") (tstamp 4a814234-707a-49f9-b491-00c40bd76c18)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-
-  (segment (start 115.555 107.4) (end 115.55 107.405) (width 0.25) (layer "F.Cu") (net 13) (tstamp b253261c-d52d-4f56-a294-e08350b28931))
 
 )
